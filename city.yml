@@ -1,0 +1,14 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: none
+security:
+  basic:
+    enabled: false
+management:
+  security:
+    enabled: false
+endpoints:
+  sensitive: false
+server:
+  port: 9080
