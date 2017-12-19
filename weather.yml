@@ -1,0 +1,14 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: none
+management:
+  security:
+    enabled: false
+security:
+  basic:
+    enabled: false
+endpoints:
+  sensitive: false
+server:
+  port: 7070
