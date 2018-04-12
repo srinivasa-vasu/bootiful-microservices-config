@@ -11,4 +11,4 @@ management:
 endpoints:
   sensitive: false
 hello:
-  there: Hi There!
+  there: Hello There!
