@@ -10,5 +10,5 @@ management:
     enabled: false
 endpoints:
   sensitive: false
-city:
-  hello: Hi There!
+hello:
+  there: Hi There!
