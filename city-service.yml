@@ -11,4 +11,4 @@ management:
 endpoints:
   sensitive: false
 hello:
-  there: Hello CITI Folks!
+  there: No time to show this demo
