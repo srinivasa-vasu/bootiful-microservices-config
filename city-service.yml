@@ -11,4 +11,4 @@ management:
 endpoints:
   sensitive: false
 hello:
-  there: Hello HDFC Folks!
+  there: Hello CITI Folks!
