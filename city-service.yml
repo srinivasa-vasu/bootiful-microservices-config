@@ -11,4 +11,4 @@ management:
 endpoints:
   sensitive: false
 hello:
-  there: No time to show this demo
+  there: have time to show this demo
